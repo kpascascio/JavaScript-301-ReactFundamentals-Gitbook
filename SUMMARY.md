@@ -73,9 +73,9 @@
     * [6.3 - Github API Card](apps\6.3-github-api-card.md)
     * [6.4 - Github API Card Form](apps\6.4-github-api-cardform.md)
     * [6.5 - Github API Card List](apps\6.5-github-api-cardlist.md)
-  * [7.0 - ](apps/7.0-youtube-api-app.md)
-  * [8.0 - ](apps/8.0-google-maps-api.md)
-  * [9.0 - Youtube Api](apps/9.0-music-app.md)
+  * [7.0 - Google Maps](apps/7.0-youtube-api-app.md)
+  * [8.0 - Youtube Api](apps/8.0-google-maps-api.md)
+  * [9.0 - Music App](apps/9.0-music-app.md)
   * [10.0 - VR app](apps/10.0-VR-app.md)
 * Part 9: Project
 * Part 10: Notes
